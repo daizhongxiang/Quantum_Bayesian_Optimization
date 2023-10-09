@@ -1,5 +1,6 @@
 # Code for the submitted paper "Quantum Bayesian Optimization"
-This directory contains the code for the submitted paper "Quantum Bayesian Optimization", including both the synthetic experiment and the AutoML experiment (Sec. 6).
+This directory contains the code for the paper [Quantum Bayesian Optimization](https://daizhongxiang.github.io/quantum_bo.pdf) accepted to NeurIPS 2023, including both the synthetic experiment and the AutoML experiment (Sec. 6).
+
 
 ## Requirements:
 'pip install -r requirements.txt'
