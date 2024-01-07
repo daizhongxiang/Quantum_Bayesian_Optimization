@@ -1,4 +1,4 @@
-# Code for the submitted paper "Quantum Bayesian Optimization"
+# Code for the NeurIPS 2023 paper "Quantum Bayesian Optimization"
 This directory contains the code for the paper [Quantum Bayesian Optimization](https://daizhongxiang.github.io/papers/quantum_bo.pdf) accepted to NeurIPS 2023, including both the synthetic experiment and the AutoML experiment (Sec. 6).
 
 
